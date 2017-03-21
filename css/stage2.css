@@ -1,0 +1,14 @@
+.inline{display:inline-block; display: inline-block; }
+.cell {border-right: 1px #000 solid;}
+.bold {font-weight:600;}
+.odd {background:#ffdfba; padding:5px;}
+.even {background:#bae1ff; padding:5px;}
+
+body {font-family:Arial; font-size:18px;}
+/*
+#ffdfba orange
+#bae1ff blue
+#baffc9 green
+#ffffba yellow
+#ffb3ba red
+*/
